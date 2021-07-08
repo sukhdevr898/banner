@@ -15,8 +15,9 @@ echo "toilet -f big ' $varbanner' -F gay | lolcat" > ban.txt
 echo
 echo "clear" > cl.txt
 echo "mpv $HOME/banner/scifi.mp3" > music.txt
-cat "music.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
-cat "cl.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
-cat "cow.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
+cat "music.txt" >> $HOME/banner/bash.bashrc
+cat "cl.txt" >> $HOME/banner/bash.bashrc
+cat "cow.txt" >> /$HOME/banner/bash.bashrc
 ls
-cat "ban.txt" >> /data/data/com.termux/files/usr/etc/bash.bashrc
+cat "ban.txt" >> /$HOME/banner/bash.bashrc
+
