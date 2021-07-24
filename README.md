@@ -6,4 +6,4 @@ $ bash req.sh <br>
 $ bash banner.sh
 	<br>
 ![SUKHDEVR898 GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
-<img src="https://img.shields.io/static/v1?label=<LABEL>&message=<MESSAGE>&color=<COLOR>" />
+<img src="https://img.shields.io/static/v1?label=<https://sukhdevr898.site123.me>&message=<https://m.me/sukhdevr898>&color=<COLOR>" />
