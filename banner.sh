@@ -11,13 +11,14 @@ read -p "ENTER YOUR BANNER NAME : " varbanner
 read -p "ENTER YOUR COWSAY NAME : " cowsay
 
 echo  "cowsay -f eyes "$varcowsay" | lolcat" > cow.txt
-echo "toilet -f big ' $varbanner' -F gay | lolcat" > ban.txt
+echo "toilet -f big " $varbanner" -F gay | lolcat" > ban.txt
 echo
 echo "clear" > cl.txt
-echo "mpv $HOME/banner/scifi.mp3" > music.txt
-cat "music.txt" >> $HOME/banner/bash.bashrc
-cat "cl.txt" >> $HOME/banner/bash.bashrc
-cat "cow.txt" >> /$HOME/banner/bash.bashrc
+echo "mpv $HOME/banner/scifi.mp3" > /dev/null 2>&1 > music.txt
+cat "music.txt" >> bash.bashrc
+cat "cl.txt" >> bash.bashrc
+cat "cow.txt" >> bash.bashrc
 ls
-cat "ban.txt" >> /$HOME/banner/bash.bashrc
+cat "ban.txt" >> bash.bashrc
+mv bash.bashrc /data/data/com.termux/files/usr/etc
 
