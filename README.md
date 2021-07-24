@@ -9,7 +9,8 @@ $ bash banner.sh
 <img src="https://img.shields.io/static/v1?label=<https://sukhdevr898.site123.me>&message=<https://m.me/sukhdevr898>&color=<COLOR>" />
 <!-- Actual text -->
 
-You can find me on [![INSTAGRAM][1.2]][1],<br> or on [![FACEBOOK][3.2]][2].
+You can find me on <br>
+[![INSTAGRAM][1.2]][1],<br> or on [![FACEBOOK][3.2]][2].
 
 <!-- Icons -->
 
