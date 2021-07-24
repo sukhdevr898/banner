@@ -31,7 +31,9 @@ You can find me on <br>
 
 ### INSTALLATION 
 
-*$ pkg install git -y *<br>
-$ bash req.sh <br>
-$ bash banner.sh
+>*$ pkg install git -y *<br>
+
+>$ bash req.sh <br>
+
+>$ bash banner.sh
 	<br>
