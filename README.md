@@ -32,7 +32,8 @@ You can find me on <br>
 ### INSTALLATION 
 
 >*$ pkg install git -y *<br>
-
+> $ git clone https://github.com/sukhdevr898/banner
+> $ cd banner
 >$ bash req.sh <br>
 
 >$ bash banner.sh
